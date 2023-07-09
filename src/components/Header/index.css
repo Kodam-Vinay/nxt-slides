@@ -1,0 +1,19 @@
+.header-container {
+  background-color: #dbeafe;
+  height: 10vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.header-container > img {
+  height: 45px;
+  width: 60px;
+}
+
+.header-container > h1 {
+  font-family: 'Bree Serif';
+  margin-left: 15px;
+}
